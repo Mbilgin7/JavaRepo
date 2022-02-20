@@ -1,6 +1,6 @@
 # JavaRepo /Proje Adı
-##Alt Başlık /Proje Amacı
+## Alt Başlık /Proje Amacı
 
 **Kalın Yazılar** <br/> satır arası boşluk <br/>
-*İtalik Yazılar*
+*İtalik Yazılar* <br/>
 'code gösterimi tek tırnak'
